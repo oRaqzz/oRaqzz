@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raad</h1>
 <h3 align="center">16-year-old from Bangladesh | Exploring the depths of AI/ML and low-level programming 🤖💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oraqzz&label=Profile%20views&color=0e75b6&style=flat" alt="oraqzz" /> </p>
-
 - 🌱 I’m currently learning ****deep learning** and exploring the secrets of **low-level programming****
 
 - 📫 How to reach me **Discord: rqq.**
