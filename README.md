@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raad</h1>
 <h3 align="center">17-year-old from Bangladesh | Exploring the depths of AI/ML and low-level programming 🤖💻</h3>
 
-- 🌱 I’m currently learning ****deep learning**.
+- 🌱 I’m currently learning **deep learning**.
 
 - 📫 How to reach me **Discord: rqq.** **Instagram: imraaddd**
 
