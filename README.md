@@ -11,7 +11,7 @@
 ---
 
 ### 📫 Reach Me
-- Instagram: **imraaddd**
+- Instagram: **oraqzz**
 - Discord: **rqq.**
 
 <h3 align="left">Languages and Tools:</h3>
